@@ -12,7 +12,7 @@ Requirements
 Put it all to the root directory, check `slideshow.htm` for correct filenames.
 
 * [jQuery](http://jquery.com)
-* [jQuery Templates](http://api.jquery.com/category/plugins/templates)
+* [jQuery Templates](https://github.com/BorisMoore/jquery-tmpl)
 * [jQuery Cycle Plugin](http://jquery.malsup.com/cycle)
 
 Recommended: [meyerweb reset](http://meyerweb.com/eric/tools/css/reset/index.html)
