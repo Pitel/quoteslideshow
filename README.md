@@ -5,7 +5,7 @@ About
 -----
 HTML5 slideshow, every picture gets random quotation from provided plaintext file.
 
-Tested only in Chrome 14.
+Tested only in Chrome 32.
 
 Requirements
 ------------
